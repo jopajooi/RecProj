@@ -1,0 +1,15 @@
+C:\Users\Adskiposral\Desktop\Papachka\bin\Debug\net7.0\Papachka.exe
+C:\Users\Adskiposral\Desktop\Papachka\bin\Debug\net7.0\Papachka.deps.json
+C:\Users\Adskiposral\Desktop\Papachka\bin\Debug\net7.0\Papachka.runtimeconfig.json
+C:\Users\Adskiposral\Desktop\Papachka\bin\Debug\net7.0\Papachka.dll
+C:\Users\Adskiposral\Desktop\Papachka\bin\Debug\net7.0\Papachka.pdb
+C:\Users\Adskiposral\Desktop\Papachka\obj\Debug\net7.0\Papachka.csproj.AssemblyReference.cache
+C:\Users\Adskiposral\Desktop\Papachka\obj\Debug\net7.0\Papachka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adskiposral\Desktop\Papachka\obj\Debug\net7.0\Papachka.AssemblyInfoInputs.cache
+C:\Users\Adskiposral\Desktop\Papachka\obj\Debug\net7.0\Papachka.AssemblyInfo.cs
+C:\Users\Adskiposral\Desktop\Papachka\obj\Debug\net7.0\Papachka.csproj.CoreCompileInputs.cache
+C:\Users\Adskiposral\Desktop\Papachka\obj\Debug\net7.0\Papachka.dll
+C:\Users\Adskiposral\Desktop\Papachka\obj\Debug\net7.0\refint\Papachka.dll
+C:\Users\Adskiposral\Desktop\Papachka\obj\Debug\net7.0\Papachka.pdb
+C:\Users\Adskiposral\Desktop\Papachka\obj\Debug\net7.0\Papachka.genruntimeconfig.cache
+C:\Users\Adskiposral\Desktop\Papachka\obj\Debug\net7.0\ref\Papachka.dll
